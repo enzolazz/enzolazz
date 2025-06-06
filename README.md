@@ -10,8 +10,8 @@
 
 - 🌱 Atualmente aprendendo: **React e Typescript**
 - 🧠 Sempre curioso sobre: **Linux**
-- 💼 Trabalhando em: (**atualmente procurando estágio**)
-- ⚡ Curiosidade: **Sou apaixonado por tecnologia e adoro entender como as coisas funcionam por baixo dos panos. Gosto de programar em Python, C/C++ e Java, explorar sistemas Linux, automatizar tarefas e resolver problemas como se fossem enigmas. Sempre estou aprendendo algo novo, seja uma linguagem, um framework ou só uma curiosidade nerd. **
+- 💼 Trabalhando em: (_atualmente procurando estágio_)
+- ⚡ Curiosidade: **Sou apaixonado por tecnologia e adoro entender como as coisas funcionam por baixo dos panos. Gosto de programar em Python, C/C++ e Java, explorar sistemas Linux, automatizar tarefas e resolver problemas como se fossem enigmas. Sempre estou aprendendo algo novo, seja uma linguagem, um framework ou só uma curiosidade nerd.**
 
 ---
 

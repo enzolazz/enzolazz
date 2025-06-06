@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o [Enzo] 👋</h1>
+<h1 align="center">Olá! Eu sou o Enzo 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=F7A41D&size=22&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full-Stack;Amante+de+Tecnologia;Sempre+aprendendo+novas+coisas..." />
@@ -8,10 +8,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🌱 Atualmente aprendendo: **[React e Typescript]**
-- 🧠 Sempre curioso sobre: **[Linux]**
-- 💼 Trabalhando em: **[procurando estágio]**
-- ⚡ Curiosidade: **[Sou apaixonado por tecnologia e adoro entender como as coisas funcionam por baixo dos panos. Gosto de programar em Python, C/C++ e Java, explorar sistemas Linux, automatizar tarefas e resolver problemas como se fossem enigmas. Sempre estou aprendendo algo novo, seja uma linguagem, um framework ou só uma curiosidade nerd. ]**
+- 🌱 Atualmente aprendendo: **React e Typescript**
+- 🧠 Sempre curioso sobre: **Linux**
+- 💼 Trabalhando em: (**atualmente procurando estágio**)
+- ⚡ Curiosidade: **Sou apaixonado por tecnologia e adoro entender como as coisas funcionam por baixo dos panos. Gosto de programar em Python, C/C++ e Java, explorar sistemas Linux, automatizar tarefas e resolver problemas como se fossem enigmas. Sempre estou aprendendo algo novo, seja uma linguagem, um framework ou só uma curiosidade nerd. **
 
 ---
 

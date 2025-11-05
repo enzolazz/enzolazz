@@ -8,9 +8,8 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🌱 Atualmente aprendendo: **React e Typescript**
 - 🧠 Sempre curioso sobre: **Linux**
-- 💼 Trabalhando em: (_atualmente procurando estágio_)
+- 💼 Desenvolvedor Fullstack Júnior na empresa [Numih](https://www.linkedin.com/company/numih/posts/?feedView=all)
 - ⚡ Curiosidade: **Sou apaixonado por tecnologia e adoro entender como as coisas funcionam por baixo dos panos. Gosto de programar em Python, C/C++ e Java, explorar sistemas Linux, automatizar tarefas e resolver problemas como se fossem enigmas. Sempre estou aprendendo algo novo, seja uma linguagem, um framework ou só uma curiosidade nerd.**
 
 ---
